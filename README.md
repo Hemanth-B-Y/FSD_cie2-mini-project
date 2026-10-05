@@ -149,7 +149,4 @@ npm run preview
 
 ---
 
-## 👨‍🎓 CS3301 CIE-2 Submission Notes
-- **Student Subject:** CS3301 Full Stack Development – Continuous Internal Evaluation 2 (CIE-2)
-- **Project Topic:** Full Stack Luxury Hotel Booking & Management Application (QuickStay)
-- **Compliance Status:** All 12 evaluation criteria are implemented, verified via production build (`vite build`), and tested without console errors.
+
